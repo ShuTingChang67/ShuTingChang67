@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShuTingChang67.
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning FinTech.
+- 🌱 I’m currently learning DFinTech.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 To reach me: shutingchang0607@gmail.com.
 
